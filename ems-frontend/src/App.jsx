@@ -1,5 +1,6 @@
 
 import './App.css'
+import ListEmployeeComponents from './components/ListEmployeeComponents'
 import HelloWorld from './HelloWorld'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <HelloWorld />
+      <ListEmployeeComponents />
     </>
   )
 }
